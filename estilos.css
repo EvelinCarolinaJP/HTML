@@ -1,0 +1,43 @@
+body{
+    background-color: #ffa867;
+    color:#f5ffcd;
+    font-family: 'Dancing Script', cursive;
+    }
+
+h3{
+    color: #b7694b;
+    font-size: 25px;
+    text-align: center;
+}
+
+h1, p{
+    color: #9d324f;
+    text-align: initial;
+}
+
+
+
+img{
+    /*width: 500px;
+    height: 350px;*/
+    border-style: groove solid;
+    border-color:#eeeaba; 
+    margin-left: 40px;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.img1 {
+     width: 400px;
+    height: 300px;
+}
+.img2 {
+    width: 500px;
+   height: 350px;
+}
+
+a{
+    color: #fffca4;
+}
+
+/*Esto es un comentario*/
